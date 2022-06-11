@@ -1,7 +1,7 @@
-Hi, I am @BFUR64 typically referred as 'Terrance'
-I'm interested in coding in python, but I'm a beginner
-I'm currently learning Python coding
-I'm looking to collaborate on nothing???
+Hi, I am @BFUR64 typically referred as 'Terrance'  <br />
+I'm interested in coding in python, but I'm a beginner  <br />
+I'm currently learning Python coding  <br />
+I'm looking to collaborate on nothing???  <br />
 How to reach me iterranceevan@gmail.com P.S. I probably won't read it in time so sorry in advanced!!
 
 <!---
