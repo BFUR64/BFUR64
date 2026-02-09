@@ -1,8 +1,8 @@
-Hi, I am @BFUR64 typically referred as 'Terrance'  <br />
-I'm interested in coding in python, but I'm a beginner  <br />
-I'm currently learning Python coding  <br />
-I'm looking to collaborate on nothing???  <br />
-How to reach me iterranceevan@gmail.com P.S. I probably won't read it in time so sorry in advanced!!
+Hi, I'm Terrance, or @BFUR64 in my user handle.
+
+Learning Java as a primary language.
+
+Contacts: iterranceevan@gmail.com
 
 <!---
 BFUR64/BFUR64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
