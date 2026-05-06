@@ -30,9 +30,9 @@ I am Terrance, and I aspire to be a Systems Engineer (Terminal my beloved)
 
 ## REACH ME OUT OR ELSE
 - Email: iterranceevan@gmail.com
-- LinkedIn [Terrance Clark](https://www.linkedin.com/in/terrance-clark-b586723b5/)
-- Facebook [Terrance Evan Clark](https://www.facebook.com/terranceevan.iletoclark/)
-- GitHub (You're already here though?) [@BFUR64](https://github.com/BFUR64)
+- LinkedIn: [Terrance Clark](https://www.linkedin.com/in/terrance-clark-b586723b5/)
+- Facebook: [Terrance Evan Clark](https://www.facebook.com/terranceevan.iletoclark/)
+- GitHub (You're already here though?): [@BFUR64](https://github.com/BFUR64)
 
 El Psy Kongroo.
 
