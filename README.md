@@ -11,6 +11,7 @@ I am Terrance, and I aspire to be a Systems Engineer (Terminal my beloved)
 - [Tetrue Lite](https://github.com/BFUR64/tetrue-lite) - Built from the ground up, endless improvement and refactors
 - [Menu Manager](https://github.com/BFUR64/menu-manager) - A spin-off library grown from Tetrue v6, a composable menu manager for the terminal
 - [Tiling Manager](https://github.com/BFUR64/tiling-manager) - The ultimate renderer for the CLI, combining state management, tiling, and more (Will be worked on, maybe, prob not, I like menu manager more)
+- [Tetrue Terminal](https://github.com/BFUR64/tetrue-terminal) - An opinionated terminal abstraction library which all the projects above depend on
 
 ## Skills
 ### Languages
