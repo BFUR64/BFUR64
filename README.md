@@ -16,7 +16,7 @@ I am Terrance, and I aspire to be a Systems Engineer (Terminal my beloved)
 ## Skills
 ### Languages
 - Java (I have very deep foundational muscle memory. Trust me)
-- Typescript/React (Migrating [Handa360](https://github.com/BFUR64/handa360) to React + Vite + TS)
+- JavaScript/React (Migrating [Handa360](https://github.com/BFUR64/handa360) to React + Vite + JSX)
 
 ### Tools
 - Git
