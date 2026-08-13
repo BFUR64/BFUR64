@@ -37,4 +37,7 @@ I am Terrance, and I aspire to be a Systems Engineer (Terminal my beloved)
 
 El Psy Kongroo.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=BFUR64&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=BFUR64&layout=compact&langs_count=6&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BFUR64&rank_icon=percentile&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=BFUR64&rank_icon=percentile&include_all_commits=true&theme=radical)
+
 <!-- Mayuri here~ you found an easter egg!~ -->
