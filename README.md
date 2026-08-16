@@ -1,4 +1,4 @@
-<h2>I am Terrance, an aspiring Systems Engineer ^w^</h2>
+<h2>I am Terrance, an aspiring Backend & Systems Architecture Engineer ^w^</h2>
 
 > I am Mad Scientist. It's so cool! <br>
 > \- Hououin Kyouma
