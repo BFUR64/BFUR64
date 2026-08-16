@@ -1,4 +1,4 @@
-I am Terrance, an aspiring Systems Engineer and Back-end Developer ^w^
+I am Terrance, an aspiring Systems Engineer and CLI Developer ^w^
 > With great architecture comes great responsibility <br>
 > \- Systems Engineer, probably
 
