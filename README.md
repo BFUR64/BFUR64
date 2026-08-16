@@ -1,25 +1,24 @@
-I am Terrance, an aspiring Systems Engineer and CLI Developer ^w^
-> With great architecture comes great responsibility <br>
-> \- Systems Engineer, probably
+<h2>I am Terrance, an aspiring Systems Engineer ^w^</h2>
 
-- Talk to me about: Philosophy, the self, Steins;Gate, Mr. Nobody, and architecture
-- Currently learning: Web development, design patterns and anti-patterns
+> I am Mad Scientist. It's so cool! <br>
+> \- Hououin Kyouma
 
-## My Love Children.
+Currently learning: Web development, design patterns and anti-patterns
+
+## My Personal Projects
 
 I like building software from the bottom up, especially terminal applications, abstractions, and systems. I'm slowly learning to build just the right amount of architecture. These are such examples:
 
-- [Tetrue Lite](https://github.com/BFUR64/tetrue-lite) - Originally built from the ground up, it now depends on 3 personal repositories to run
+- [Tetrue Lite](https://github.com/BFUR64/tetrue-lite) - Originally built from the ground up, it now depends on two spun-off repositories
 - [Menu Manager](https://github.com/BFUR64/menu-manager) - A spin-off library grown from Tetrue v6, a composable menu manager for the terminal
+- [Tetrue Terminal](https://github.com/BFUR64/tetrue-terminal) - An opinionated terminal abstraction library which the listed projects depend on
 - [Tiling Manager](https://github.com/BFUR64/tiling-manager) - An experimental tiling renderer for the CLI
-- [Tetrue Terminal](https://github.com/BFUR64/tetrue-terminal) - An opinionated terminal abstraction library which all the projects above depend on
 
 ## Background
 
 - BS Information Technology, Software Engineering Major, 3rd Year Student at ASU Kalibo
-- Project Lead for [Handa360](https://github.com/BFUR64/handa360) for disaster preparedness
-- Co-Founder of [DevGuild](https://github.com/DevGuild-ASU)
-- Endless on-and-off work on **Tetrue Lite** for the holy grail of better architecture that I, **sisyphus**, will never reach, and be happy
+- Project Lead of [Handa360](https://github.com/BFUR64/handa360), an offline-capable disaster-preparedness web application
+- Co-Founder of [DevGuild](https://github.com/DevGuild-ASU), a student developer group at ASU Kalibo
 
 ## Skills
 
