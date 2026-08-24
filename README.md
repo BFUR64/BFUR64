@@ -12,6 +12,7 @@ I like building software from the bottom up, especially terminal applications, a
 - [Tetrue Lite](https://github.com/BFUR64/tetrue-lite) - Originally built from the ground up, it now depends on two spun-off repositories
 - [Menu Manager](https://github.com/BFUR64/menu-manager) - A spin-off library grown from Tetrue v6, a composable menu manager for the terminal
 - [Tetrue Terminal](https://github.com/BFUR64/tetrue-terminal) - An opinionated terminal abstraction library which the listed projects depend on
+- [MicroSound](https://github.com/BFUR64/MicroSound) - A small, opinionated sound playback library for Java 21+
 - [Tiling Manager](https://github.com/BFUR64/tiling-manager) - An experimental tiling renderer for the CLI
 
 ## Background
